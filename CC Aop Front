@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>book about everything</title>
+    <link rel="stylesheet" href="style-gastronomia.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Doto:wght@100..900&family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&family=Lilita+One&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <h1>BOOK ABOUT EVERYTHING</h1>
+
+            <ul>
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="decoracao.html">DECORAÇÃO</a></li>
+                <li><a href="livros.html">LIVROS</a></li>
+                <li><a href="contato.html">CONTATO</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <article>
+        <div class="card">
+            <img src="https://www.peru.travel/Contenido/Noticia/Imagen/pt/2017/1.0/Principal/Madrid-fusion-2024-desktop_.jpg"
+                alt="">
+            <div>
+                <h1>Gastronomia a magia na cozinha!</h1>
+                <p>A gastronomia é mais do que apenas o ato de cozinhar ou se alimentar; ela é uma expressão cultural,
+                    histórica e social que reflete a identidade de um povo, suas tradições, e sua relação com o
+                    ambiente. Desde os primórdios da humanidade, quando os primeiros seres humanos começaram a dominar o
+                    fogo e a cozinhar alimentos, a gastronomia evoluiu paralelamente ao desenvolvimento das sociedades.
+
+                    Nos tempos antigos, a culinária estava intimamente ligada à sobrevivência e ao uso dos recursos
+                    naturais disponíveis. No Egito, na Mesopotâmia, na China e na Índia, os povos começaram a domesticar
+                    animais e cultivar grãos, o que permitiu o surgimento de práticas alimentares mais complexas. No
+                    entanto, foi na Grécia e em Roma que a gastronomia passou a ser vista também como uma forma de
+                    prazer e de arte, com refeições elaboradas e o consumo de vinhos e especiarias.
+
+                    Durante a Idade Média, a gastronomia se transformou com a expansão do comércio e a descoberta de
+                    novos ingredientes, como especiarias vindas do Oriente, que enriqueceram os sabores da Europa. A
+                    culinária medieval, com suas combinações intensas e sabores exóticos, refletia o status e o poder
+                    das classes dominantes.
+
+                    A Revolução Industrial, no século XIX, trouxe mudanças significativas. A produção em massa e a
+                    disponibilidade de alimentos mais baratos e acessíveis para as classes trabalhadoras alteraram os
+                    hábitos alimentares. A gastronomia se democratizou, mas também se industrializou, com a criação de
+                    produtos processados e mais convenientes.
+
+                    No século XX, com o surgimento dos restaurantes e da alta gastronomia, chefs se tornaram verdadeiros
+                    artistas, e a cozinha passou a ser considerada uma forma de expressão cultural refinada, capaz de
+                    encantar os sentidos e contar histórias por meio dos sabores. Ao mesmo tempo, a globalização fez com
+                    que ingredientes e receitas viajassem pelo mundo, influenciando e sendo influenciados por diversas
+                    culturas.
+
+                    Hoje, a gastronomia é um campo que vai além da simples culinária. Ela envolve ciência, arte, cultura
+                    e sustentabilidade, com um foco crescente em ingredientes locais, orgânicos e a preservação de
+                    tradições culinárias. Ela é uma forma de conectar as pessoas, explorar novas experiências sensoriais
+                    e refletir sobre como nossas escolhas alimentares afetam o mundo ao nosso redor.
+
+                    A história da gastronomia é, portanto, uma história de adaptação, inovação e, acima de tudo, de
+                    prazer compartilhado.</p>
+            </div>
+        </div>
+    </article>
+
+    <footer>
+        ©2024 - 2024 / OS SEM TETO - UVV
+    </footer>
+</body>
+</html>
