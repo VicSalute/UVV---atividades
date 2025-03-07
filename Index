@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>book about everything</title>
+    <link rel="stylesheet" href="style-home.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Doto:wght@100..900&family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&family=Lilita+One&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <h1>BOOK ABOUT EVERYTHING</h1>
+
+            <ul>
+                <li><a href="decoracao.html">DECORAÇÃO</a></li>
+                <li><a href="gastronomia.html">GASTRONOMIA</a></li>
+                <li><a href="livros.html">LIVROS</a></li>
+                <li><a href="contato.html">CONTATO</a></li>
+            </ul>
+        </nav>
+
+        <div class="card">
+            <h1 class="card-title">Bem vindo ao <span class="highlight">Book About Everything!</span></h1>
+            <p class="card-text">Quer se aprofundar nos conhecimentos sobre gastronomia? Decoração? Ou que tal
+                literatura? Aqui, queremos que você
+                vá além das dicas do cotidiano. Nosso propósito é ajudar a aprofundar seu entendimento sobre esses 3
+                temas,
+                oferecendo conteúdo que combina aprendizado e inspiração. Ao explorar esses temas, queremos que você se
+                sinta
+                mais conectado e bem informado, seja na cozinha, ambientação ou no mundo dos livros. Gastronomia: Não se
+                trata
+                apenas de receitas, mas de entender o que há por trás de cada prato. Vamos compartilhar conhecimentos
+                sobre técnicas,
+                ingredientes e a história de muitos pratos, para que você possa aprimorar seu conhecimento e descobrir
+                novas formas
+                de apreciar a culinária, tanto como cozinheiro quanto como apreciador. Decoração: A decoração vai além
+                de escolher
+                móveis e cores, é uma forma de expressar quem somos e de criar espaços que trazem bem-estar. Por aqui,
+                oferecemos
+                ideias práticas e acessíveis para que você entenda os conceitos de design e saiba como aplicá-los no seu
+                dia a dia,
+                criando ambientes que sejam, ao mesmo tempo, bonitos e funcionais. Literatura: Acreditamos que a
+                literatura é uma
+                ferramenta poderosa para ampliar nossa visão de mundo e queremos compartilhar com você as histórias e os
+                ensinamentos
+                que podem inspirar sua jornada. Nosso objetivo é que você aprenda, se inspire e se divirta enquanto
+                explora esses três
+                temas que, quando unidos, têm o poder de enriquecer sua vida de muitas maneiras. Pronto para começar
+                essa jornada? Explore,
+                aprenda e transforme seu olhar sobre o mundo ao seu redor!
+            </p>
+        </div>
+    </header>
+
+    <section>
+        <div class="card-news">
+            <div class="card-body">
+                <a href="livros.html">
+                    <img src="https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTV8fHxlbnwwfHx8fHw%3D"
+                        style="max-width: 100%; height: auto;" alt="livro">
+                </a>
+                <h3 class="card-news-title">Livros a arte da imaginação</h1>
+                    <p class="card-news-text">
+                        Os livros são portais para o conhecimento, a imaginação e a reflexão, e sua história está
+                        profundamente
+                        entrelaçada com a evolução da humanidade. Desde os primeiros registros, que surgiram em forma de
+                        desenhos
+                        e símbolos em cavernas ou em tábuas de argila, até a invenção da escrita alfabética, os livros
+                        desempenharam
+                        um papel fundamental na transmissão de saberes e cultura...
+                    </p>
+
+                    <a href="livros.html" class="btn">
+                        Leia mais
+                    </a>
+            </div>
+        </div>
+
+        <div class="card-news">
+            <div class="card-body">
+                <a href="gastronomia.html">
+                    <img src="https://wordpress-cms-gc-prod-assets.quero.space/uploads/2019/01/gastronomia-2.jpg" alt="gastronomia">
+                </a>
+                <h3 class="card-news-title">Gastronomia a magia na cozinha!</h1>
+                    <p class="card-news-text">
+                        Os livros são portais para o conhecimento, a imaginação e a reflexão, e sua história está
+                        profundamente
+                        entrelaçada com a evolução da humanidade. Desde os primeiros registros, que surgiram em forma de
+                        desenhos
+                        e símbolos em cavernas ou em tábuas de argila, até a invenção da escrita alfabética, os livros
+                        desempenharam
+                        um papel fundamental na transmissão de saberes e cultura...
+                    </p>
+
+                    <a href="gastronomia.html" class="btn">
+                        Leia mais
+                    </a>
+            </div>
+        </div>
+
+        <div class="card-news">
+            <div class="card-body">
+                <img src="https://blog.archtrends.com/wp-content/uploads/2022/11/decoracaodecasa-5.jpeg" alt="decoração">
+                <h3 class="card-news-title">Decoração a criatividade ao céu!</h1>
+                    <p class="card-news-text">
+                        Os livros são portais para o conhecimento, a imaginação e a reflexão, e sua história está
+                        profundamente
+                        entrelaçada com a evolução da humanidade. Desde os primeiros registros, que surgiram em forma de
+                        desenhos
+                        e símbolos em cavernas ou em tábuas de argila, até a invenção da escrita alfabética, os livros
+                        desempenharam
+                        um papel fundamental na transmissão de saberes e cultura...
+                    </p>
+
+                    <a href="decoracao.html" class="btn">
+                        Leia mais
+                    </a>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        ©2024 - 2024 / SEM TETO - UVV
+    </footer>
+</body>
+
+</html>
