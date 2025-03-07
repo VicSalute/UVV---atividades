@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>book about everything</title>
+    <link rel="stylesheet" href="style-contato.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Doto:wght@100..900&family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&family=Lilita+One&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <h1>BOOK ABOUT EVERYTHING</h1>
+
+            <ul>
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="decoracao.html">DECORAÇÃO</a></li>
+                <li><a href="gastronomia.html">GASTRONOMIA</a></li>
+                <li><a href="livros.html">LIVROS</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <article>
+        <div class="contact">
+            <div class="profile">
+                <img src="https://img.freepik.com/fotos-gratis/retrato-de-estilo-anime-de-personagem-samurai-tradicional-japones_23-2151499092.jpg" alt="">
+                <div class="social-media">
+                    <i class="fa-brands fa-facebook"></i>
+                    <p> - bighinelson</p>
+                </div>
+                <div class="social-media">
+                    <i class="fa-brands fa-whatsapp"></i>
+                    <p> - (99) 999999999</p>
+                </div>
+                <div class="social-media">
+                    <i class="fa-brands fa-instagram"></i>
+                    <p> - bighinelson</p>
+                </div>
+            </div>
+            
+            <div class="profile">
+                <img src="https://m.media-amazon.com/images/I/61tX35u3QcL._AC_UF894,1000_QL80_.jpg" alt="">
+                <div class="social-media">
+                    <i class="fa-brands fa-facebook"></i>
+                    <p> - Llacye</p>
+                </div>
+                <div class="social-media">
+                    <i class="fa-brands fa-whatsapp"></i>
+                    <p> - (99) 999999999</p>
+                </div>
+                <div class="social-media">
+                    <i class="fa-brands fa-instagram"></i>
+                    <p> - Llayce</p>
+                </div>
+            </div>
+
+            <div class="profile">
+                <img src="https://t3.ftcdn.net/jpg/05/66/27/56/360_F_566275602_ewJ3sgEV27DQhETyuen8JHrVFM90rBhm.jpg" alt="">
+                <div class="social-media">
+                    <i class="fa-brands fa-facebook"></i>
+                    <p> - Cabrito</p>
+                </div>
+                <div class="social-media">
+                    <i class="fa-brands fa-whatsapp"></i>
+                    <p> - (99) 999999999</p>
+                </div>
+                <div class="social-media">
+                    <i class="fa-brands fa-instagram"></i>
+                    <p> - Cabrito</p>
+                </div>
+            </div>
+        </div>
+    </article>
+
+    <footer>
+        ©2024 - 2024 / OS SEM TETO - UVV
+    </footer>
+</body>
+</html>
