@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%; 
+    background-color: #161819;
+    font-family: "Rubik", cursive;
+    display: flex;
+    flex-direction: column; 
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+}
+
+header nav {
+    background-color: rgb(30, 31, 31);
+    border-bottom: 1px solid #73CFD9;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+}
+
+header nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+nav ul li {
+    padding: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+nav ul li:hover {
+    cursor: pointer;
+    background-color: #64b4bd;
+    color: white;
+    transition: .2s;
+}
+
+/*article*/
+article {
+    margin: 50px;
+    flex-grow: 1;
+}
+
+article .contact {
+    border-radius: 20px;
+    box-shadow: 4px 3px 11px 8px #27708C;
+    padding: 20px;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background: red;
+    background-color: rgb(30, 31, 31);
+}
+
+article .contact img {
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+    display: flex;
+}
+
+article .profile {
+    display: flex;
+    gap: 10px;
+    color: white;
+    align-items: center;
+}
+
+article .profile .social-media {
+    display: flex;
+    gap: 5px;
+}
+
+/*footer*/
+footer {
+    background-color: rgb(30, 31, 31);
+    margin-top: 50px;
+    color: white;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
