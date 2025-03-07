@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>book about everything</title>
+    <link rel="stylesheet" href="style-decoracao.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Doto:wght@100..900&family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&family=Lilita+One&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <h1>BOOK ABOUT EVERYTHING</h1>
+
+            <ul>
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="gastronomia.html">GASTRONOMIA</a></li>
+                <li><a href="livros.html">LIVROS</a></li>
+                <li><a href="contato.html">CONTATO</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <article>
+        <div class="card">
+            <img src="https://gelkerribeiro.com.br/wp-content/uploads/2020/11/projeto-interior-sala-casa-contemporanea.jpg.webp"
+                alt="">
+            <div>
+                <h1>Decoração a criatividade ao céu!</h1>
+                <p>A decoração é uma forma de arte e expressão pessoal que visa transformar espaços, tornando-os mais
+                    acolhedores, funcionais e visualmente agradáveis. Ao longo da história, a decoração sempre
+                    desempenhou um papel importante na criação de ambientes que refletissem a cultura, o status social e
+                    as crenças de uma época. Mais do que uma simples prática estética, ela é uma forma de comunicar
+                    identidade, conforto e estilo de vida.
+
+                    Desde a Antiguidade, as civilizações buscaram embelezar seus espaços com elementos que transmitissem
+                    poder e status. No Egito, por exemplo, as tumbas e templos eram adornados com ricos murais, móveis e
+                    objetos de ouro, enquanto os gregos e romanos utilizavam mármore e mosaicos para criar ambientes
+                    grandiosos e sofisticados. A decoração, então, estava intimamente ligada à arquitetura e à
+                    funcionalidade dos espaços, sempre refletindo os valores culturais e as necessidades do momento.
+
+                    Durante a Idade Média, a decoração era predominantemente religiosa, com igrejas e mosteiros
+                    decorados com vitrais, esculturas e tapeçarias, sempre com o intuito de transmitir a mensagem
+                    espiritual. Já no Renascimento, com o renascimento das artes e da ciência, a decoração passou a se
+                    expandir para os espaços privados, como palácios e residências aristocráticas, onde móveis mais
+                    elaborados e pinturas começaram a decorar os interiores.
+
+                    O século XVIII trouxe consigo o estilo Rococó, uma estética mais ornamentada e detalhada, com móveis
+                    curvilíneos, tecidos luxuosos e cores suaves. Na Revolução Industrial, no século XIX, a decoração
+                    começou a ser influenciada pela produção em massa e pela acessibilidade, permitindo que as classes
+                    médias também tivessem acesso a móveis e objetos decorativos de qualidade, embora de maneira mais
+                    simples.
+
+                    O século XX foi marcado por uma diversidade de estilos, desde o minimalismo moderno até os excessos
+                    do Art Déco e do design escandinavo. A decoração passou a ser mais focada na funcionalidade, no
+                    design e na individualidade, refletindo mudanças sociais e culturais, como a valorização do conforto
+                    no pós-guerra e a explosão de cores e formas dos anos 60.
+
+                    Hoje, a decoração continua a evoluir, incorporando tendências globais, mas também resgatando
+                    elementos tradicionais e artesanais. Além disso, a preocupação com a sustentabilidade e o uso de
+                    materiais ecológicos tem ganhado destaque. A decoração moderna, com a sua diversidade de estilos e a
+                    valorização do design consciente, busca criar espaços que sejam ao mesmo tempo esteticamente
+                    agradáveis, funcionais e sustentáveis.
+
+                    Em resumo, a história da decoração é uma jornada de adaptação e inovação, onde a arte de transformar
+                    espaços reflete não apenas os gostos de uma época, mas também a evolução das necessidades humanas,
+                    sociais e ambientais. Ela é, antes de tudo, uma maneira de contar histórias e criar ambientes que
+                    nos inspirem, nos acolham e nos façam sentir em casa.</p>
+            </div>
+        </div>
+    </article>
+
+    <footer>
+        ©2024 - 2024 / OS SEM TETO - UVV
+    </footer>
+</body>
+</html>
